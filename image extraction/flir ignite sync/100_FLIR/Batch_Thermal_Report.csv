@@ -1,4 +1,4 @@
-File Name,Timestamp,Camera Model,Serial Number,Center Temp (°C),Max Temp (°C),Min Temp (°C),Avg Temp (°C),Delta Temp (°C),Emissivity,Distance,Status
+File Name,Timestamp,Camera Model,Serial Number,Center Temp (C),Max Temp (C),Min Temp (C),Avg Temp (C),Delta Temp (C),Emissivity,Distance,Status
 FLIR0003.jpg,2025:11:24 14:30:18.107+02:00,FLIR E5 Pro,13333134,23.0,23.9,21.7,23.1,2.2,0.95,1.00 m,Success
 FLIR0004.jpg,2025:11:24 14:31:19.177+02:00,FLIR E5 Pro,13333134,28.5,54.5,21.3,28.4,33.2,0.95,1.00 m,Success
 FLIR0005.jpg,2025:11:24 14:40:36.898+02:00,FLIR E5 Pro,13333134,22.4,23.0,22.2,22.6,0.8,0.95,1.00 m,Success
