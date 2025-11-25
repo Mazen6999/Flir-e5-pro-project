@@ -3,4 +3,4 @@ services:
     build: .
     volumes:
       # LEFT SIDE: Your actual Windows Path:RIGHT SIDE: The path inside Docker (Do not change the right side)
-      - C:/Users/Lenovo/Desktop/Prometeon/Flir-e5-pro-project/image extraction/flir ignite sync/100_FLIR:/app/images
+      - ../flir ignite sync/100_FLIR:/app/images
