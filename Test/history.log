@@ -1,0 +1,33 @@
+14-01-2026 09:08:58 - 🛠️  Performing Startup Health Check...
+14-01-2026 09:08:58 - ✅ WATCHING: 'flir ignite sync'
+14-01-2026 09:08:58 - 🔌 Connecting to Database: PSQLAPPEG297-01
+14-01-2026 09:08:59 - ✅ Database Connected to Table: Flir.ThermalReadings
+14-01-2026 09:08:59 - 🔄 Starting Pipeline Run...
+14-01-2026 09:09:04 - ✅ No new data to upload.
+14-01-2026 09:09:56 - 🛠️  Performing Startup Health Check...
+14-01-2026 09:09:56 - ✅ WATCHING: 'flir ignite sync'
+14-01-2026 09:09:56 - 🔌 Connecting to Database: PSQLAPPEG297-01
+14-01-2026 09:09:56 - ✅ Database Connected to Table: Flir.ThermalReadings
+14-01-2026 09:09:56 - 🔄 Starting Pipeline Run...
+14-01-2026 09:09:59 - ✅ No new data to upload.
+14-01-2026 09:12:27 - 🛠️  Performing Startup Health Check...
+14-01-2026 09:12:27 - ✅ WATCHING: 'flir ignite sync/'
+14-01-2026 09:12:27 - 🔌 Connecting to Database: PSQLAPPEG297-01
+14-01-2026 09:12:27 - ✅ Database Connected to Table: Flir.ThermalReadings
+14-01-2026 09:12:27 - 🔄 Starting Pipeline Run...
+14-01-2026 09:12:30 - ✅ No new data to upload.
+14-01-2026 09:38:41 - 🛠️  Performing Startup Health Check...
+14-01-2026 09:38:41 - ✅ WATCHING ROOT: 'flir ignite sync'
+14-01-2026 09:38:41 - 🔌 Connecting to Database: PSQLAPPEG297-01
+14-01-2026 09:38:42 - ✅ Database Connected to Table: Flir.ThermalReadings
+14-01-2026 09:38:42 - 🔄 Starting Pipeline Run...
+14-01-2026 09:38:45 - 🚀 Processing 48 NEW images...
+14-01-2026 09:39:14 - ⚠️ No Asset Note found for FLIR0035.jpg. Archiving without upload.
+14-01-2026 09:39:15 - ⚠️ No Asset Note found for FLIR0031.jpg. Archiving without upload.
+14-01-2026 09:39:16 - ⚠️ No Asset Note found for FLIR0032.jpg. Archiving without upload.
+14-01-2026 09:39:16 - ⚠️ No Asset Note found for FLIR0033.jpg. Archiving without upload.
+14-01-2026 09:39:17 - ⚠️ No Asset Note found for FLIR0034.jpg. Archiving without upload.
+14-01-2026 09:39:18 - 🎉 SUCCESS: Uploaded 43 records & Archived.
+14-01-2026 09:39:35 - ⌨️ Manual trigger detected.
+14-01-2026 09:39:36 - 🔄 Starting Pipeline Run...
+14-01-2026 09:39:39 -    ℹ️ No readable images found.

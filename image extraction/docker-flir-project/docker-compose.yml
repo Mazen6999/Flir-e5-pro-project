@@ -1,6 +1,0 @@
-services:
-  flir-processor:
-    build: .
-    volumes:
-      # LEFT SIDE: Your actual Windows Path:RIGHT SIDE: The path inside Docker (Do not change the right side)
-      - ../flir ignite sync/100_FLIR:/app/images
